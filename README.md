@@ -11,4 +11,4 @@
 - [lista1exercicio5.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio5.ipynb) manipulação de dados
 - [lista1exercicio6.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio6.ipynb)  manipular séries
 - [lista1exercicio7.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio7.ipynb) manipular os índices de uma série
-- lista1exercicio8.ipynb
+- [lista1exercicio8.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio8.ipynb) lidar com dados faltantes
