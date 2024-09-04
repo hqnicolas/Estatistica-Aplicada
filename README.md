@@ -1,8 +1,8 @@
 # Estatistica Aplicada
 - Publicando aqui meus exercícios da disciplina de Estatistica Aplicada.
-
 - Aulas Proferidas pela Professora Aline Cipriano
-- [Biblioteca Pandas e NumPy](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/Lista%2001%20-%20Series.pdf) Lista de exercícios
+- 
+# [Biblioteca Pandas e NumPy](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/Lista%2001%20-%20Series.pdf) Lista de exercícios
 - [lista1loading.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1loading.ipynb) Leitura do arquivo CSV pelo pandas
 - [lista1exercicio1.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio1.ipynb) série com os números
 - [lista1exercicio2.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio2.ipynb) dias da semana
