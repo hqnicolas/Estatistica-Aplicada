@@ -12,10 +12,12 @@
 - [lista1exercicio6.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio6.ipynb)  manipular séries
 - [lista1exercicio7.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio7.ipynb) manipular os índices de uma série
 - [lista1exercicio8.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Lista%201/lista1exercicio8.ipynb) lidar com dados faltantes
-# Aula 5 - Aleatória Simples
+# Aula 5 - [Aleatória Simples](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%205%20-%20Aleat%C3%B3ria%20Simples/Nicolas_Aula_5_Amostragem_aleat%C3%B3ria_simples.ipynb)
 - [Aula_5_Amostragem_aleatória_simples.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%205%20-%20Aleat%C3%B3ria%20Simples/Nicolas_Aula_5_Amostragem_aleat%C3%B3ria_simples.ipynb)
-# Aula 6 - Sistemática
+# Aula 6 - [Sistemática](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%206%20-%20Sistem%C3%A1tica/Aula%206%20Amostragem%20sistem%C3%A1tica_Python.pdf)
 - [Aula_6_Amostragem_sistemática.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%206%20-%20Sistem%C3%A1tica/Aula_6_Amostragem_sistem%C3%A1tica.ipynb)
-# Aula 7 - Grupos
+# Aula 7 - [Grupos](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%207%20-%20Grupos/Aula%207Amostragem%20por%20grupos_Python.pdf)
 - [Aula_7Amostragem_por_grupos.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%207%20-%20Grupos/Aula_7Amostragem_por_grupos.ipynb)
+# Aula 8 - [Estratificada](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%208%20-%20Estratificada/Aula%208AmostragemEstratificada_Python.pdf)
+- [Aula_8_Estratificada_python.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%208%20-%20Estratificada/Nicolas_Aula_8_Estratificada_python.ipynb)
 
