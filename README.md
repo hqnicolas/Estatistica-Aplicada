@@ -20,4 +20,6 @@
 - [Aula_7Amostragem_por_grupos.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%207%20-%20Grupos/Aula_7Amostragem_por_grupos.ipynb)
 # Aula 8 - [Estratificada](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%208%20-%20Estratificada/Aula%208AmostragemEstratificada_Python.pdf)
 - [Aula_8_Estratificada_python.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Aula%208%20-%20Estratificada/Nicolas_Aula_8_Estratificada_python.ipynb)
+# Trabalho Final - [Análise Descritiva](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Final/Analise.pdf)
+- [Trabalho Final Amostragem.ipynb](https://github.com/hqnicolas/Estatistica-Aplicada/blob/main/Final/Amostragem.ipynb)
 
